@@ -30,10 +30,6 @@
    <!--    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css"> -->
       <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
-      <script src='js/prefixfree.min.js'></script>
-      <script src='http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>
-      <script src='js/jquery.scrollme.js'></script>
-
 
 
 
