@@ -46,7 +46,8 @@
 			
 			</ul>
 				<div class="col s12">
-				  	<button class="btn purple">Leer Mas</button>
+				  	
+				  	<a href="doc/Consentimiento.docx" class="btn purple">Descarga consentimiento</a>
 				</div>
 		</div>
 	</div>
@@ -56,9 +57,9 @@
 <div style="  background-color: #d8d8d8;">
 	<div class="container">	
 		<div class="row">
-			<div class="col s12 m6 animated fadeInLeft" style="animation-delay: 5s;">
+			<div class="col s12 m6 animated fadeInLeft" style="animation-delay: 2s;">
 				<h1 style="  width: auto;
-							  height: 86px;
+							 
 							  font-family: Lato;
 							  padding-top: 130px;
 							 /* font-size: 75px;*/
@@ -68,13 +69,10 @@
 							  line-height: normal;
 							  letter-spacing: -1.071429px;
 							  text-align: left;
-							  color: #343434;">Contáctanos</h1>
-
-							  <a class="waves-effect btn"  style="background-color: #e4318f;"><i class="fab fa-whatsapp fa-1x">    </i>    +51999210792</a>
-						
-				
+							  color: #343434;">Contáctanos</h1>	
+							  <p style="margin-top: -20px; margin-left: 3px;">Envianos tus datos de manera confidencial <br> y nos comunicaremos contigo.</p>			
 			</div>
-			<div class="col s12 m6 animated fadeInRight" style="background-color: #b8aeae; padding: 20px; margin-top: 37px; margin-bottom: 37px; animation-delay: 5s;">
+			<div class="col s12 m6 animated fadeInRight" style="background-color: #ffffff; padding: 20px; margin-top: 37px; margin-bottom: 37px; animation-delay: 2s;">
 
 					  
 					    <form class="col s12">
@@ -113,6 +111,42 @@
 
 
 
+
+
+<div class="container-fluid" align="center">
+	<div class="container">
+	<div class="row">
+		<button class="btn purple" id="qbtn">Preguntas frecuentes</button>
+
+		<div class="col s12"	>
+			  <ul class="collapsible questions" data-collapsible="accordion">
+			    <li>
+			      <div class="collapsible-header">First</div>
+			      <div class="collapsible-body" align="justify"><span>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</span></div>
+			    </li>
+			    <li>
+			      <div class="collapsible-header">Second</div>
+			      <div class="collapsible-body" align="justify"><span>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum..</span></div>
+			    </li>
+			    <li>
+			      <div class="collapsible-header">Third</div>
+			      <div class="collapsible-body" align="justify"><span>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</span></div>
+			    </li>
+			  </ul>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class="container-fluid" style="background-color: #3b3232; padding-bottom: 80px; padding-top: 80px; " align="center">
+	<div class="row">
+
+		<h5 class="lato white-text">vasectomíaperu.com - 2018 <br> Lima, Perú</h5>
+		<p class="lato white-text"> Av. Salaverry 2665 San Isidro, LIMA 27 Lima Peru - Lima</p>
+		
+	</div>
+</div>
 
 
 
