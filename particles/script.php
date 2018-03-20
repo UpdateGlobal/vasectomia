@@ -8,6 +8,7 @@
 
                 <script type="text/javascript">
                 $(document).ready(function() {
+                   $('.collapsible').collapsible('close', 0);
                   $('.slider').slider({
                     indicators:false,
                     height:758
@@ -15,3 +16,5 @@
 
                 });
                 </script>
+
+                

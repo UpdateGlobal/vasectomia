@@ -6,17 +6,36 @@
 ?>
 </head>
 <body>
+ 
+        
 
-	<div class="grid-block" style="background-image: url('img/image.jpg'); width: 100%; height: 100vh; ">
+ 
 
+	<div class="grid-block" style="background-image: url('img/image.jpg'); width: 100%; height: 100vh;">
+
+
+
+ <div class="navbar-fixed">
+    <nav>
+        <ul class="right hide-on-med-and-down">
+			<li><a class="waves-effect btn"  style="background-color: #e4318f;"><i class="fab fa-whatsapp fa-1x">    </i>    +51999210792</a></li>
+        </ul>
+    </nav>
+  </div>
+
+
+
+
+
+
+
+
+		
 		<div class="container animated fadeInLeft" style="padding-top: 10vh; animation-delay: 1s;">
 			<div class="row" align="left">
 				<img src="img/logo.png">
-				  <h1 class="white-text" style="margin-bottom:  0px;">SIENTE TU LIBERTAD</h1>
-         			 <h5 class="white-text" style="margin-top: 0;">Vive tranquilo y sin preocupaciónes 	</h5>
-         			 	<div class="col s12" >
-							  <a class="waves-effect btn"  style="background-color: #e4318f;"><i class="fab fa-whatsapp fa-1x">    </i>    +51999210792</a>
-						</div>
+				<h1 class="white-text" style="margin-bottom:  0px;">SIENTE TU LIBERTAD</h1>
+         		<h5 class="white-text" style="margin-top: 0;">Vive tranquilo y sin preocupaciónes 	</h5>
 			</div>
 		</div>
 
@@ -110,16 +129,18 @@
 </div>
 
 
-
+<!--  <p class="hidep" style="display: none;">If you click on the "Hide" button, I will disappear.</p> -->
+            
+           
 
 
 <div class="container-fluid" align="center">
 	<div class="container">
 	<div class="row">
-		<button class="btn purple" id="qbtn">Preguntas frecuentes</button>
-
-		<div class="col s12"	>
-			  <ul class="collapsible questions" data-collapsible="accordion">
+ 			<a id="show" class="btn purple">Preguntas frecuentes</a>
+		<div class="col s12">
+			<div class="hidep" style="display: none;">
+			  <ul class="collapsible" data-collapsible="accordion">
 			    <li>
 			      <div class="collapsible-header">First</div>
 			      <div class="collapsible-body" align="justify"><span>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</span></div>
@@ -133,6 +154,7 @@
 			      <div class="collapsible-body" align="justify"><span>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</span></div>
 			    </li>
 			  </ul>
+			</div> 
 		</div>
 	</div>
 	</div>
@@ -143,7 +165,7 @@
 	<div class="row">
 
 		<h5 class="lato white-text">vasectomíaperu.com - 2018 <br> Lima, Perú</h5>
-		<p class="lato white-text"> Av. Salaverry 2665 San Isidro, LIMA 27 Lima Peru - Lima</p>
+		<p class="lato white-text"> <i class="fas fa-map-marker-alt" style="color: #fff;">  </i>  Av. Salaverry 2665 San Isidro, LIMA 27 Lima Peru - Lima</p>
 		
 	</div>
 </div>
