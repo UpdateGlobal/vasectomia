@@ -111,7 +111,7 @@
 							  line-height: normal;
 							  letter-spacing: -1.071429px;
 							  text-align: left;
-							  color: #343434;">Contáctanos</h1>	
+							  color: #343434;">Reserva una Cita</h1>	
 							  <p style="margin-top: -20px; margin-left: 3px;">Envianos tus datos de manera confidencial <br> y nos comunicaremos contigo.</p>			
 			</div>
 			<div class="col s12 m6 animated fadeInRight" style="background-color: #ffffff; padding: 20px; margin-top: 37px; margin-bottom: 37px; animation-delay: 2s;">
