@@ -142,17 +142,127 @@
 			<div class="hidep" style="display: none;">
 			  <ul class="collapsible" data-collapsible="accordion">
 			    <li>
-			      <div class="collapsible-header">First</div>
-			      <div class="collapsible-body" align="justify"><span>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</span></div>
+			      <div class="collapsible-header"><strong>¿Qué es la Vasectomia?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>La vasectomía es una cirugía simple hecha por un médico en consultorio la mayoría de las veces. Los pequeños tubos en la bolsa escrotal que llevan los espermatozoides son cortados y bloqueados, por lo que los espermatozoides no salen de su cuerpo y no provocan embarazo. El procedimiento es muy rápido, y usted puede ir a casa el mismo día. Y es extremadamente eficaz para prevenir el embarazo, casi el 100%.<br>
+			      	Las vasectomías están destinadas a ser permanentes, por lo que usualmente no pueden ser revertidas. Usted sólo debe hacerse una vasectomía si está 100% convencido de que no quiere tener más hijos por el resto de su vida.<br>
+			      El término &quot;vasectomía&quot; proviene del nombre de los tubos en el escroto que se bloquean durante el procedimiento: conductosdeferentes.</span></div>
 			    </li>
 			    <li>
-			      <div class="collapsible-header">Second</div>
-			      <div class="collapsible-body" align="justify"><span>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum..</span></div>
+			      <div class="collapsible-header"><strong>¿Cómo funciona la vasectomía?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>
+			      	Los espermatozoides — las células microscópicas que se unen con un óvulo para causar embarazo — son producidas en los testículos. <br>
+			      	Los espermatozoides dejan los testículos a través de dos tubos llamados conductos deferentes, y se mezcla con otros líquidos para recién llamarse semen. Los espermatozoides en su semen pueden causar embarazo si entra en una vagina. <br>
+			      	La vasectomía corta cada conducto deferente, manteniendo los espermatozoides fuera del semen. Las células espermáticas permanecen en sus testículos y son absorbidas por su cuerpo. Comenzando cerca de 2 meses después de una vasectomía, su semen no contendrá ningún espermatozoide, así que no puede causar embarazo. Pero todavía tendrás la misma calidad y cantidad de semen que tenía antes. No habrá espermatozoides. <br>
+			      	La vasectomía no cambia la forma en que se siente el tener una relación sexual, un orgasmo o una eyaculación. Su semen todavía se verá, sentirá, y sabrá de la misma manera después de la vasectomía, la diferencia es que simplemente no será capaz de conseguir embarazar a nadie.
+			      </span></div>
 			    </li>
 			    <li>
-			      <div class="collapsible-header">Third</div>
+			      <div class="collapsible-header"><strong>¿Cuán efectiva es la Vasectomía?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>Las vasectomías son casi 100% efectivas para prevenir el embarazo, pero no de inmediato. El semen tarda alrededor de 2 meses en estar libre de espermatozoides. <br>
+			      En un par de meses después de su vasectomía, pudiendo variar según la cantidad de eyaculaciones que se tenga, su médico hará una prueba simple llamada espermatograma para verificar si hay espermatozoides en su semen. <br>
+
+			      La vasectomía es realmente el mejor método de planificación familiarque existe, porque está diseñado para ser permanente, y no se puede olvidar de usarlo o estropearlo. Previene el embarazo todo el tiempo durante el resto de su vida. Es el método más económico, se realiza 	una sola vez. La vasectomía es el método de control de la natalidad de Hazlo y Olvídate. <br>
+			      Aunque está reportado en la literatura médica de casos de recanalizaciones espontaneas de los conductos deferentes estas son sumamente raras y más son anecdóticas.
+			      </span></div>
+			    </li>
+			    <li>
+			      <div class="collapsible-header"><strong>¿La Vasectomía protege contra las enfermedades de transmisión sexual (ETS)?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>No, una vasectomía no te protege ni a ti ni a tu pareja de una enfermedad de transmisión sexual. El semen puede seguir transmitiendo ETS aún si este no contenga espermatozoides. Y para algunas ETS, solo se necesita el contacto piel a piel para contagiarse. El uso del condón disminuye las posibilidades de contagiarse o transmitir una ETS.</span></div>
+			    </li>
+
+			    <li>
+			      <div class="collapsible-header"><strong>¿Cuán segura es la vasectomía?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>Las vasectomías son súper seguras y muy pocas personas tienen complicaciones. Pero como todos los procedimientos médicos hay algunos posibles riesgos. Los riesgos más comunes de la vasectomía son menores y tratables. <br>
+			      Todos los hombres pueden hacerse la vasectomía si lo desean. <br> 
+			      Debes hacerte la vasectomía si estas totalmente seguro de que no deseas tener más hijos por el resto de tu vida. Si es tú propia decisión y no estás siendo presionado por tus padres, por la pareja o por la familia. No esperes que la vasectomía resuelva problemas que puedan ser temporales, tales como problemas financieros, de parejas o de salud.</span></div>
+			    </li>
+
+			    <li>
+			      <div class="collapsible-header"><strong>¿Puede una Vasectomía ser revertida?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>La vasectomía está diseñada para ser permanente e irreversible. <br>
+			      Es posible intentar recanalizar los conductos deferentes cortados pero es un procedimiento complejo, costoso y con probabilidades muy bajas de poder conseguirse restablecer la fertilidad. <br>
+			      Si te preocupa la reversión del procedimiento es mucho mejor no realizarte una vasectomía. <br>
+			      Antes de hacerte una vasectomía piensa en cambios de vida que podrían afectarte en el futuro, como un divorcio, una nueva pareja o la muerte de tu hijo. No necesitas el permiso de tu pareja para hacerte una vasectomía, pero es de mucha ayuda hablarlo con tu pareja. <br>
+			      Hay otras maneras de prevenir embarazos y no son permanentes. Y la pareja tiene muchas opciones de prevención de embarazos. T de cobre, implantes, píldoras anticonceptivas que son tan efectivas como la vasectomía si son bien utilizados, recordando siempre que no son permanentes. <br>Realizarse una vasectomía es usualmente segura. Pero que como todo procedimiento no está libre de riesgos. Molestias como dolor temporal, hematomas e infecciones son los más comunes. Puede indicarse analgesia y antibióticos.</span></div>
+			    </li>
+
+			    <li>
+			      <div class="collapsible-header"><strong>¿Qué puedo esperar si me hago la vasectomía?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>La vasectomía es procedimiento quirúrgico fácil de realizarse. Es muy rápido y puedes irte a tu casa inmediatamente. Necesitas un reposo de 48 horas. <br>
+			      </span></div>
+			    </li>
+			    <li>
+			      <div class="collapsible-header"><strong>¿La vasectomía es dolorosa?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>Probablemente no. Tu doctor te ayudará en realizarla de la manera más confortable posible. Se te colocará anestesia local lo cual hará el procedimiento tolerable. Sentirás una molestia cuando se coloca la anestesia local o cuando los conductos deferentes sean manipulados. Pero en líneas generales muy bien tolerado el procedimiento.</span></div>
+			    </li>
+
+			    <li>
+			      <div class="collapsible-header"><strong>¿Cómo me sentiré después de la vasectomía?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>Usted se puede ir a casa inmediatamente terminada la vasectomía. Sentirás algún malestar o leve dolor después del procedimiento, pero no es un gran dolor. Podrías desarrollar un hematoma o una hinchazón por unos pocos días. Se te indicará usar ropa interior lo más apretada posible para que los testículos no se muevan demasiado, analgésicos y hielo local para que ayude a desinflamar. No hacer ningún trabajo físico ni ejercicios por una semana. <br>
+			      Comunícate con tu doctor si tiene: 
+				  <ul>
+				  	<li>Fiebre mayor de 38°C.</li>
+				  	<li>Sangre o pus de los puntos realizados en el escroto.</li>
+				  	<li>Si hay mucho dolor o gran hinchazón escrotal.</li>
+				  </ul>
+				  Estos síntomas podrían indicar que es una infección y necesitar terapia antibiótica.
+
+			      </span></div>
+			    </li>
+
+			    <li>
+			      <div class="collapsible-header"><strong>¿Cuánto tiempo necesitaré para mi recuperación?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>La mayoría de las personas necesitan un reposo de un par de días. Si su trabajo necesita mucha actividad física o es de levantar peso, deberías dejar de trabajar por una semana. No hacer ejercicios físicos por el mismo periodo de tiempo.</span></div>
+			    </li>
+
+			    <li>
+			      <div class="collapsible-header"><strong>¿En cuanto tiempo puedo tener sexo luego de mi vasectomía?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>Usualmente puedes empezar a tener actividad sexual a los pocos días del procedimiento. Lo ideal es esperar una semana, aunque lo más recomendable es empezar a tener relaciones sexuales cuando ya no se sientan molestias en el área escrotal. Solo recuerden que la vasectomía NO previene los embarazos inmediatamente. Toma casi 2 meses después de tu vasectomía que el semen quede libre de espermatozoides. Se te pedirá un espermatograma para poder confirmar que ya no eres capaz de engendrar hijos.</span></div>
+			    </li>
+
+			    <li>
+			      <div class="collapsible-header"><strong>¿Cómo me hago una vasectomía?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>Muchos centros de planificación familiar, hospitales, clínicas, médicos privados ofrecen realizar una vesectomía.</span></div>
+			    </li>
+			     <li>
+			      <div class="collapsible-header"><strong>¿Cuánto cuesta una vasectomía?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>Realizarse una vasectomía no es un procedimiento costoso y puede variar desde 0 hasta los 1500 soles, dependiendo de donde se realice. <br>
+			      El costo de una vasectomía varía y depende de donde se la realice, si lo cubre su plan de seguros, solo pagará el coaseguro. En ESSALUD es gratuita y el MINSA a través del SIS tiene planes que son muy económicos y en algunos casos gratuitos. <br>
+			      Incluso si su vasectomía cuesta más que otros métodos por adelantado, por lo general termina ahorrando dinero en el largo plazo, porque dura para siempre y el pago se realiza una sola vez. La vasectomía es aproximadamente 6 veces más barata que la esterilización femenina.
+
+			      </span></div>
+			    </li>
+			     <li>
+			      <div class="collapsible-header"><strong>¿Cuáles son los beneficios de la vasectomía?</strong></div>
+			      <div class="collapsible-body" align="justify"><span>La vasectomía es efectiva, conveniente, y un permanente control de la natalidad. Disminuye el estrés de tu pareja de quedar embarazada y puede hacer tu vida sexual mucho mejor y placentera.</span></div>
+			    </li>
+			     <li>
+			      <div class="collapsible-header"><strong>Las Vasectomías son MUY efectivas</strong></div>
+			      <div class="collapsible-body" align="justify"><span>Vasectomías son permanentes y es uno de los más efectivos de los métodos de planificación familiar que existen, con más de 99% efectividad en prevenir embarazos. La vasectomía es efectiva porque es permanente, y porque no hay manera que el que la realiza se confunda o equivoque en el procedimiento.</span></div>
+			    </li>
+			    <li>
+			      <div class="collapsible-header"><strong>Vasectomías son súper convenientes</strong></div>
+			      <div class="collapsible-body" align="justify"><span>Una vez realizada la vasectomía y que tu doctor te indique que ya no tienes espermatozoides en tu semen, tú y tu pareja no tienen que hacer otra cosa para prevenir el embarazo. No más viajes a las farmacias, nada que comprar o usar, nada que ponerse antes del sexo. <br>
+
+			      Hace tu vida sexual más segura. Es un método de planificación familiar que no te hace pensar antes de tener una relación sexual en si tú pareja va a salir embarazada, así que no interfiere con la acción. Puedes llegar al clímax sexual sin preocuparte de nada. <br>
+
+			      La vasectomía ni interfiere con las hormonas o el desempeño sexual. No cambiará la manera de sentir un orgasmo. Tu semen lucirá, se sentirá y sabrá del mismo modo que previo a la vasectomía sin preocuparte de que embaraces a tu pareja.
+
+
+			      </span></div>
+			    </li>
+			    <li>
+			      <div class="collapsible-header"><strong>Third</strong></div>
+			      <div class="collapsible-body" align="justify"><span>
+			      	
+			      </span></div>
+			    </li>
+			    <li>
+			      <div class="collapsible-header"><strong>Third</strong></div>
 			      <div class="collapsible-body" align="justify"><span>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</span></div>
 			    </li>
+
+
 			  </ul>
 			</div> 
 		</div>
