@@ -70,8 +70,8 @@
 			<h2 style="font-weight: 900; margin: 60px 0px 60px;">VASECTOMÍA PERÚ</h2>
 		</div>
 		<div class="col s12 m6 animated fadeInLeft" style="animation-delay: 2s;">
+				
 				<img src="img/captura-de-pantalla-2018-03-09-a-la-s-09-57-11.jpg" class="responsive-img">
-
 		</div>
 		<div class="col s12 m6 animated fadeInRight" style="margin-top: -15px;  animation-delay: 2s;">
 			<h5 style="font-weight: 900;">¿Porque hacerse la Vasectomía?</h5>
