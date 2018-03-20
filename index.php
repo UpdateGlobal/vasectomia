@@ -40,7 +40,7 @@
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 <?php
 	include('particles/head.php');
@@ -74,17 +74,17 @@
 
 		</div>
 		<div class="col s12 m6 animated fadeInRight" style="margin-top: -15px;  animation-delay: 2s;">
-			<h5 style="font-weight: 900;">WHY CHOOSE US?</h5>
-			<p class="purple-text" style="font-size: 14px;">Morbi porta est ami. integer ut neque. Sed aliquet discutm turpir</p>
-			<p style="font-size: 12px">Fuscle sit ament manga non odiomolest ie agestas. Aliquad magna. tortor interdum ac, lacinia ac, sodales quis ligula</p>
+			<h5 style="font-weight: 900;">¿Porque hacerse la Vasectomía?</h5>
+			<p class="purple-text" style="font-size: 14px;">La vasectomía es cada vez más solicitada por hombres para el control de la natalidad.</p>
+			<p style="font-size: 12px">La vasectomía es una operación que te permitirá tener libertad de tener una relación de pareja plena y responsable</p>
 
 			<ul>
-				<li>&#10003; <a class="black-text" style="font-size: 10px;">Fully responsive so content looks great</a></li>
-				<li>&#10003; <a class="black-text" style="font-size: 10px;"> wesome sliders to showcase content</a></li>
-				<li>&#10003; <a class="black-text" style="font-size: 10px;"> advanced theme options panel </a></li>
-				<li>&#10003; <a class="black-text" style="font-size: 10px;"> amazing shotcodes leaded with options</a></li>
-				<li>&#10003; <a class="black-text" style="font-size: 10px;"> aesy to use fusion builder to create pages</a></li>
-				<li>&#10003; <a class="black-text" style="font-size: 10px;"> amazing shortcodes loades whit options </a></li>
+				<li>&#10003; <a class="black-text" style="font-size: 10px;">La Vasectomía puede mejorar tu vida sexual</a></li>
+				<li>&#10003; <a class="black-text" style="font-size: 10px;"> Librate a ti y a tu pareja de embarazos no deseados</a></li>
+				<li>&#10003; <a class="black-text" style="font-size: 10px;"> Disfruta la vida 24 horas del día, los 7 días de la semana </a></li>
+				<li>&#10003; <a class="black-text" style="font-size: 10px;"> La vasectomía cuesta 6 veces menos que la esterilización femenina.</a></li>
+				<li>&#10003; <a class="black-text" style="font-size: 10px;"> El procedimiento completo de Vasectomía  dura alrededor de 20 minutos</a></li>
+				<li>&#10003; <a class="black-text" style="font-size: 10px;"> puedes volver a tener sexo entre unos días y una semana después de la vasectomía </a></li>
 			
 			</ul>
 				<div class="col s12">
