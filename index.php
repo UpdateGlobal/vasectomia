@@ -1,3 +1,44 @@
+<?php
+   //Reseteamos variables a 0.
+   $name = $phone = $email = $asunto = $para = $headers = $msjCorreo = NULL;
+
+   if (isset($_POST['submit'])) {
+      //Obtenemos valores input formulario
+      $name = $_POST['name'];
+      $phone = $_POST['phone'];
+      $email = $_POST['email'];   
+      $asunto = $_POST['asunto'];
+      $para = 'blacksk81@gmail.com';
+
+      //Creamos cabecera.
+      $headers = 'From' . " " . $email . "\r\n";
+      $headers .= "Content-type: text/html; charset=utf-8";
+
+      //Componemos cuerpo correo.
+      $msjCorreo = "Nombre: " . $name;
+      $msjCorreo .= "\r\n";
+      $msjCorreo .= "Email: " . $phone;
+      $msjCorreo .= "\r\n";
+      $msjCorreo .= "Asunto: " . $email;
+      $msjCorreo .= "\r\n";
+      $msjCorreo .= "Mensaje: " . $asunto;
+      $msjCorreo .= "\r\n";
+
+    if (mail($para, $phone, $msjCorreo, $headers)) {
+         echo "<script language='javascript'>
+            alert('Mensaje enviado, muchas gracias.');
+         </script>";
+    } else {
+         echo "<script language='javascript'>
+            alert('fallado');
+         </script>";
+    }
+  }
+?>
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,31 +47,14 @@
 ?>
 </head>
 <body>
- 
-        
-
- 
-
-	<div class="grid-block" style="background-image: url('img/image.jpg'); width: 100%; height: 100vh;">
-
-
-
- <div class="navbar-fixed">
-    <nav>
-        <ul class="right hide-on-med-and-down">
-			<li><a class="waves-effect btn"  style="background-color: #e4318f;"><i class="fab fa-whatsapp fa-1x">    </i>    +51999210792</a></li>
-        </ul>
-    </nav>
-  </div>
-
-
-
-
-
-
-
-
-		
+	<div class="grid-block" style="background-image: url('img/image.jpg');  background-repeat: no-repeat; background-size: cover;  height: 100vh;">
+			 <div class="navbar-fixed">
+			    <nav>
+			        <ul class="right hide-on-med-and-down">
+						<li><a class="waves-effect btn purple" href="https://api.whatsapp.com/send?phone=51999210792"><i class="fab fa-whatsapp fa-1x">    </i>    +51999210792</a></li>
+			        </ul>
+			    </nav>
+			  </div>
 		<div class="container animated fadeInLeft" style="padding-top: 10vh; animation-delay: 1s;">
 			<div class="row" align="left">
 				<img src="img/logo.png">
@@ -38,7 +62,6 @@
          		<h5 class="white-text" style="margin-top: 0;">Vive tranquilo y sin preocupaciónes 	</h5>
 			</div>
 		</div>
-
 	</div>
 
 <div class="container" style="padding-bottom: 70px;">
@@ -94,25 +117,25 @@
 			<div class="col s12 m6 animated fadeInRight" style="background-color: #ffffff; padding: 20px; margin-top: 37px; margin-bottom: 37px; animation-delay: 2s;">
 
 					  
-					    <form class="col s12">
+					    <form class="col s12" method="post">
 					      <div class="input-field col s12">
-					          <input id="last_name" type="text" class="validate">
+					          <input  type="text" class="validate" name="name" id="name">
 					          <label for="last_name">Nombre</label>
 					       </div>
 					   
 				
 					      <div class="input-field col s12">
-					          <input id="last_name" type="text" class="validate">
+					          <input type="text" class="validate" name="phone" id="phone">
 					          <label for="last_name">Celular</label>
 					      </div>
 
 					      <div class="input-field col s12">
-					          <input id="last_name" type="email" class="validate">
+					          <input  type="email" class="validate" name="email" id="email">
 					          <label for="last_name">Email</label>
 					      </div>
 
 						  <div class="input-field col s12">
-					          <textarea id="textarea1" class="materialize-textarea"></textarea>
+					          <textarea class="materialize-textarea" name="asunto" id="asunto"></textarea>
 					          <label for="textarea1">Comentarios</label>
 					      </div>
 					      <div class="col s12">
@@ -206,20 +229,16 @@
 				  	<li>Si hay mucho dolor o gran hinchazón escrotal.</li>
 				  </ul>
 				  Estos síntomas podrían indicar que es una infección y necesitar terapia antibiótica.
-
 			      </span></div>
 			    </li>
-
 			    <li>
 			      <div class="collapsible-header"><strong>¿Cuánto tiempo necesitaré para mi recuperación?</strong></div>
 			      <div class="collapsible-body" align="justify"><span>La mayoría de las personas necesitan un reposo de un par de días. Si su trabajo necesita mucha actividad física o es de levantar peso, deberías dejar de trabajar por una semana. No hacer ejercicios físicos por el mismo periodo de tiempo.</span></div>
 			    </li>
-
 			    <li>
 			      <div class="collapsible-header"><strong>¿En cuanto tiempo puedo tener sexo luego de mi vasectomía?</strong></div>
 			      <div class="collapsible-body" align="justify"><span>Usualmente puedes empezar a tener actividad sexual a los pocos días del procedimiento. Lo ideal es esperar una semana, aunque lo más recomendable es empezar a tener relaciones sexuales cuando ya no se sientan molestias en el área escrotal. Solo recuerden que la vasectomía NO previene los embarazos inmediatamente. Toma casi 2 meses después de tu vasectomía que el semen quede libre de espermatozoides. Se te pedirá un espermatograma para poder confirmar que ya no eres capaz de engendrar hijos.</span></div>
 			    </li>
-
 			    <li>
 			      <div class="collapsible-header"><strong>¿Cómo me hago una vasectomía?</strong></div>
 			      <div class="collapsible-body" align="justify"><span>Muchos centros de planificación familiar, hospitales, clínicas, médicos privados ofrecen realizar una vesectomía.</span></div>
@@ -229,7 +248,6 @@
 			      <div class="collapsible-body" align="justify"><span>Realizarse una vasectomía no es un procedimiento costoso y puede variar desde 0 hasta los 1500 soles, dependiendo de donde se realice. <br>
 			      El costo de una vasectomía varía y depende de donde se la realice, si lo cubre su plan de seguros, solo pagará el coaseguro. En ESSALUD es gratuita y el MINSA a través del SIS tiene planes que son muy económicos y en algunos casos gratuitos. <br>
 			      Incluso si su vasectomía cuesta más que otros métodos por adelantado, por lo general termina ahorrando dinero en el largo plazo, porque dura para siempre y el pago se realiza una sola vez. La vasectomía es aproximadamente 6 veces más barata que la esterilización femenina.
-
 			      </span></div>
 			    </li>
 			     <li>
@@ -243,25 +261,9 @@
 			    <li>
 			      <div class="collapsible-header"><strong>Vasectomías son súper convenientes</strong></div>
 			      <div class="collapsible-body" align="justify"><span>Una vez realizada la vasectomía y que tu doctor te indique que ya no tienes espermatozoides en tu semen, tú y tu pareja no tienen que hacer otra cosa para prevenir el embarazo. No más viajes a las farmacias, nada que comprar o usar, nada que ponerse antes del sexo. <br>
-
 			      Hace tu vida sexual más segura. Es un método de planificación familiar que no te hace pensar antes de tener una relación sexual en si tú pareja va a salir embarazada, así que no interfiere con la acción. Puedes llegar al clímax sexual sin preocuparte de nada. <br>
-
-			      La vasectomía ni interfiere con las hormonas o el desempeño sexual. No cambiará la manera de sentir un orgasmo. Tu semen lucirá, se sentirá y sabrá del mismo modo que previo a la vasectomía sin preocuparte de que embaraces a tu pareja.
-
-
-			      </span></div>
+			      La vasectomía ni interfiere con las hormonas o el desempeño sexual. No cambiará la manera de sentir un orgasmo. Tu semen lucirá, se sentirá y sabrá del mismo modo que previo a la vasectomía sin preocuparte de que embaraces a tu pareja.</span></div>
 			    </li>
-			    <li>
-			      <div class="collapsible-header"><strong>Third</strong></div>
-			      <div class="collapsible-body" align="justify"><span>
-			      	
-			      </span></div>
-			    </li>
-			    <li>
-			      <div class="collapsible-header"><strong>Third</strong></div>
-			      <div class="collapsible-body" align="justify"><span>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</span></div>
-			    </li>
-
 
 			  </ul>
 			</div> 
