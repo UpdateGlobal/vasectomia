@@ -4,7 +4,7 @@
       <title>Vasectomia Peru</title>
       <!-- Favicon -->
       <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-      <link rel="icon" href="../img/favicon.ico" type="image/x-icon">
+      <link rel="icon" href="favicon.ico" type="image/x-icon">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="description" content="Vasectomía Perú es un Centro Clinico que promueve la responsabilidad en el control de la natalidad y la vida plena en pareja" />
       <meta name="keywords" content="PALABRAS CLAVER" />

@@ -87,6 +87,7 @@
 			</div>
 		</div>
 	</div>
+<<<<<<< HEAD
 	<div style="background-color: #d8d8d8;">
 		<div class="container">	
 			<div class="row">
@@ -120,6 +121,60 @@
 					</div>
 					<!-- </form> -->
 				</div>
+=======
+
+</div>
+
+<div style="  background-color: #d8d8d8;">
+	<div class="container">	
+		<div class="row">
+			<div class="col s12 m6 animated fadeInLeft" style="animation-delay: 2s;">
+				<h1 style="  width: auto;
+							 
+							  font-family: Lato;
+							  padding-top: 130px;
+							 /* font-size: 75px;*/
+							  font-weight: 900;
+							  font-style: normal;
+							  font-stretch: normal;
+							  line-height: normal;
+							  letter-spacing: -1.071429px;
+							  text-align: left;
+							  color: #343434;">Reserva <br>una Cita</h1>	
+							  <p style="margin-top: -20px; margin-left: 3px;">Envianos tus datos de manera confidencial <br> y nos comunicaremos contigo.</p>			
+			</div>
+			<div class="col s12 m6 animated fadeInRight" style="background-color: #ffffff; padding: 20px; margin-top: 37px; margin-bottom: 37px; animation-delay: 2s;">
+
+					  
+					    <form class="col s12" method="post">
+					      <div class="input-field col s12">
+					          <input  type="text" class="validate" name="name" id="name">
+					          <label for="last_name">Nombre</label>
+					       </div>
+					   
+				
+					      <div class="input-field col s12">
+					          <input type="text" class="validate" name="phone" id="phone">
+					          <label for="last_name">Celular</label>
+					      </div>
+
+					      <div class="input-field col s12">
+					          <input  type="email" class="validate" name="email" id="email">
+					          <label for="last_name">Email</label>
+					      </div>
+
+						  <div class="input-field col s12">
+					          <textarea class="materialize-textarea" name="asunto" id="asunto"></textarea>
+					          <label for="textarea1">Comentarios</label>
+					      </div>
+					      <div class="col s12">
+					      	<button class="btn purple">Enviar</button>
+					      </div>
+
+					    </form>
+					
+
+>>>>>>> chamo
 			</div>
 		</div>
 	</div>
